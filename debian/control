@@ -1,10 +1,10 @@
-Source: deepin-app-store-runtime
+Source: lingmo-app-store-runtime
 Section: utils
 Priority: optional
-Maintainer: wurongjie <wurongjie@uniontech.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: debhelper (>= 11)
 Standards-Version: 4.1.3
-Homepage: https://gitlabwh.uniontech.com/
+Homepage: https://github.com/LingmoOS/lingmo-app-store-runtime/
 
 Package: deepin-app-store-runtime
 Architecture: any
